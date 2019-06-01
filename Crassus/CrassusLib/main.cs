@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lib
+namespace CrassusLib
 {
     public class Class1
     {

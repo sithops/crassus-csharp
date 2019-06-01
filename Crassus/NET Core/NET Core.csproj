@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Lib\Lib.csproj" />
+    <ProjectReference Include="..\CrassusLib\CrassusLib.csproj" />
   </ItemGroup>
 
 </Project>
