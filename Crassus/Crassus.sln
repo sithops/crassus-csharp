@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET Core", "NET Core\NET Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET Framework", "NET Framework\NET Framework.csproj", "{55F24660-564D-4BBD-9AFC-1594D754D2CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "Lib\Lib.csproj", "{61364959-4252-4349-A01A-69E61FCF5449}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrassusLib", "CrassusLib\CrassusLib.csproj", "{A43DFC31-F369-4019-A868-2A42A017FB7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{55F24660-564D-4BBD-9AFC-1594D754D2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55F24660-564D-4BBD-9AFC-1594D754D2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55F24660-564D-4BBD-9AFC-1594D754D2CA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{61364959-4252-4349-A01A-69E61FCF5449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{61364959-4252-4349-A01A-69E61FCF5449}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{61364959-4252-4349-A01A-69E61FCF5449}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{61364959-4252-4349-A01A-69E61FCF5449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A43DFC31-F369-4019-A868-2A42A017FB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43DFC31-F369-4019-A868-2A42A017FB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43DFC31-F369-4019-A868-2A42A017FB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43DFC31-F369-4019-A868-2A42A017FB7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

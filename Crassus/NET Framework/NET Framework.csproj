@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Lib\Lib.csproj">
-      <Project>{61364959-4252-4349-a01a-69e61fcf5449}</Project>
-      <Name>Lib</Name>
+    <ProjectReference Include="..\CrassusLib\CrassusLib.csproj">
+      <Project>{a43dfc31-f369-4019-a868-2a42a017fb7a}</Project>
+      <Name>CrassusLib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
